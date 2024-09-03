@@ -58,7 +58,7 @@ export const DATA = {
       },
       Instagram: {
         name: "Instagram",
-        url: "https://dub.sh/dillion-youtube",
+        url: "https://www.instagram.com/meutkarshgaur?igsh=MTRqZXRzN3N1dXpidA==",
         icon: Icons.instagram,
         navbar: true,
       },

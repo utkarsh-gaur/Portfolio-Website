@@ -1,4 +1,4 @@
-import resume from "@/assets/resume.png";
+import resume from "@/assets/resume.jpg";
 import Image from "next/image";
 
 export default function UtkarshResume() {
